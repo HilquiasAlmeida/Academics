@@ -1,3 +1,10 @@
+//
+Exercício 1
+            Enunciado: Escrever um conjunto de instruções para computador simplificado 
+            (CS) — somar dois valores (contidos em dois cartões) e subtrair um terceiro valor 
+            (contido no terceiro cartão) e imprimir o resultado.
+//
+
 #include <stdio.h>
 
 int main() {
