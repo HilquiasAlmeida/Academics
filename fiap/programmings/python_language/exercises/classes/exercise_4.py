@@ -2,7 +2,7 @@
 Módulo: Calculadora de Notas - FIAP
 Descrição: Script orientado a objetos para cálculo de médias acadêmicas 
            de Computational Thinking, respeitando as restrições de lógica.
-Autor: Seu Nome
+Autor: Hilquias S Almeida
 """
 
 class CalculadoraNotasFIAP:
