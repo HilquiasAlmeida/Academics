@@ -54,20 +54,3 @@ Trilha de engenharia focada em sistemas computacionais, arquitetura de baixo ní
 
 ---
 > **STATUS :: COMPILADO E VALIDADO**
-
-# `FIT // ACADEMIC TRACK`
-
-Trilha de engenharia focada em sistemas computacionais, arquitetura de baixo nível e algoritmos de alta performance.
-
-## 🗺️ Roadmap da Trilha FIT
-
-* [x] **Fase 1**: Fundamentos da Linguagem C e Compilação
-* [x] **Fase 2**: Modularização com Arquivos de Cabeçalho (`.h`)
-* [ ] **Fase 3**: Gerenciamento Avançado de Memória e Ponteiros
-* [ ] **Fase 4**: Desenvolvimento e Depuração com CLion / CMake
-
-## 📁 Estrutura de Diretórios
-* `programmings/c_language/clion_projects/exercise/`: Módulos de exercícios orientados a headers e estruturação via IDE.
-
----
-> **STATUS :: COMPILADO E VALIDADO**
